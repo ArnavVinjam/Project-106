@@ -1,0 +1,18 @@
+body{
+    background: darkslateblue;
+}
+
+#topbar{
+    background: mediumslateblue;
+		padding: 10px;
+		box-shadow: 20px 20px slateblue;
+        margin-top: 10px;
+        width: 90%;
+}
+
+#startbutton{
+    border: 1px;
+	background: mediumslateblue;
+    padding: 10px;
+    box-shadow: 5px 5px  slateblue;
+}
